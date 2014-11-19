@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Excursive Contact Input</string>
+    <string name="action_settings">Thanks!</string>
+    
+    <string name="edit_name">press here to input your name</string>
+    <string name="button_send">Enter</string>
+    <string name="edit_number">input your number here</string>
+    <string name="toptext">Hi there, </string>
+    <string name="toptext2">I want your contact info.</string>
+    <string name="toptext3">Hi there,</string>
+    <string name="thanks">Thanks.</string>
+    <string name="sexycheckbox">toggle this if you like good fun</string>
+    <string name="debugstring">debug</string>
+    
+    <string name="settings_smsbody">Text Body </string>
+    <string name="settings_smsbody_hint">Main part of your text"</string>
+    <string name="settings_checkboxbody">Checkbox Message</string>
+    <string name="settings_checkboxbody_hint">What gets added on the end of the Text Body</string>
+    <string name="settings_checkboxbody_description">Checkbox Description</string>
+    <string name="settings_checkboxbody_description_hint">What describes the text button</string>
+    <string name="settings_checkbox1">Show Checkbox</string>
+    <string name="settings_checkbox2">Auto SMS</string>
+    <string name="settings_button1">Save</string>
+    <string name="settings_button2">Help</string>
+    <string name="settings_button3">Return</string> 
+    <string name="settings_button4">Test Message Here</string> 
+    
+    <string name="settings_smsintro">Input your name</string>
+    <string name="settings_smsintro_hint">What is your name?</string>
+    
+    <string name="action_about">About</string>
+    <string name="support">Support</string>
+    
+    <string name="feedback_header">About</string>
+    <string name="feedback_descr">The self taught progammer is a 22 year old college student from Minnesota that thrives on creating useful content. As a paid user, you and the few, have a say in what this app evolves into. Send feedback of features that youd like to see in the app and they could become reality.</string>
+    <string name="feedback_description">Direct Feedback</string>
+	<string name="feedback_hint">Got any (read: useful) feedback for the progammer?</string>	
+	<string name="feedback_send">Send</string>
+	<string name="space">   </string> 
+	
+	<string name="complete_text"> Message Goes Here  </string> 
+</resources>
